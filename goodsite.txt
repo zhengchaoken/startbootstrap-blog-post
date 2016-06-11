@@ -1,1 +1,5 @@
-https://github.com/ArthurAssuncao/bootstrap4blogger  
+https://github.com/ArthurAssuncao/bootstrap4blogger   这个title的突出效果、颜色效果还挺好看的
+https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Block_formatting_context 这个是wiki页面的布局示例
+http://getbootstrap.com/components/ 这里是图标元素
+http://v4-alpha.getbootstrap.com/components/navbar/   这个是整体布局
+http://brianway.github.io/collection/  这个是tag,category
